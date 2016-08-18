@@ -35,7 +35,8 @@
     "jsonfile": "^2.3.1",
     "jsonpath": "^0.2.6",
     "lodash": "^4.15.0",
-    "simple-git": "^1.47.0"
+    "simple-git": "^1.47.0",
+    "underscore.string": "^3.3.4"
   },
   "devDependencies": {
     "chai": "~2.1.2",
