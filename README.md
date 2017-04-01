@@ -1,5 +1,7 @@
 # Ai-core [![Build Status](https://secure.travis-ci.org/kristianmandrup/ai-core.png?branch=master)](http://travis-ci.org/kristianmandrup/ai-core) [![NPM version](https://badge-me.herokuapp.com/api/npm/ai-core.png)](http://badges.enytc.com/for/npm/ai-core)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ai-core.svg)](https://greenkeeper.io/)
+
 > Core for aurelia-installer
 
 ## Getting Started
